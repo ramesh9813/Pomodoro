@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pomodoro/static/css/main.9810b4e3.css",
+    "main.js": "/Pomodoro/static/js/main.b0c67c39.js",
+    "static/media/BeepSound.wav": "/Pomodoro/static/media/BeepSound.372995a9b53513b6fd79.wav",
+    "index.html": "/Pomodoro/index.html",
+    "main.9810b4e3.css.map": "/Pomodoro/static/css/main.9810b4e3.css.map",
+    "main.b0c67c39.js.map": "/Pomodoro/static/js/main.b0c67c39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9810b4e3.css",
+    "static/js/main.b0c67c39.js"
+  ]
+}
